@@ -26,10 +26,5 @@ def assign_rooms(attendees)
 end
 
 def printer(attendees)
-  greet = []
-  attendees.each do |name|
-    hello = "Hello, my name is #{name}."
-    greet.push(hello)
-  end
-  puts
+  
 end
