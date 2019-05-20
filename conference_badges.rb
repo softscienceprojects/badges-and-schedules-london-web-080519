@@ -31,5 +31,5 @@ def printer(attendees)
     hello = "Hello, my name is #{name}."
     greet.push(hello)
   end
-  greet
+  puts
 end
